@@ -6,7 +6,7 @@ Overview
 ScheduleBuilder is a Python + Streamlit–based application that automatically generates class timetables for educational departments.
 It supports multi-class scheduling, teacher-wise allocation, Excel uploads, and downloadable timetables.
 
-🚀 Features
+**Features**
 
 Add teachers, classes, and subject assignments
 
@@ -22,7 +22,7 @@ Download generated timetables as CSV
 
 Clean and interactive UI using Streamlit
 
-🛠 Tech Stack
+**Tech Stack**
 
 Python 3.x
 
@@ -36,21 +36,21 @@ JSON – Import/Export for state
 
 OpenPyXL – Excel file support
 
-📦 Installation
+ **Installation**
 Install required libraries:
 pip install streamlit pandas openpyxl numpy
 
 ▶️ Run the Project
 streamlit run website.py
 
-📂 Project Structure
+ **Project Structure**
 ScheduleBuilder/
 │── website.py
 │── requirements.txt
 │── procedure to run.txt
 │── README.md
 
-📸 Output Preview
+**Output Preview**
 
 Timetables for:
 
